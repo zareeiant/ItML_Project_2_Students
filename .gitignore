@@ -133,3 +133,5 @@ dmypy.json
 ._*
 Vegetable*
 kt_out/*
+*.tmp
+sample_sol.ipynb
